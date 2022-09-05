@@ -26,7 +26,7 @@ and open the link that is shown in the terminal in your browser adding the `/doc
 
 ## Authentication
 
-After that, you will need to create a user to be able to authenticate the requests. To do that just try out the first endpoint which is the `/auth/register` endpoint and fill the form. Use that user to sign in with the Authorize button in the top right corner of the page. After that you will be able to use the main endpoint to get the fibonacci series up to the upper limit you want.
+After that, you will need to create a user to be able to authenticate the requests. To do that just try out the first endpoint which is the `/auth/create_user` endpoint and fill the form. Use that user to sign in with the Authorize button in the top right corner of the page. After that you will be able to use the main endpoint to get the fibonacci series up to the upper limit you want.
 
 ![login](repo_images/auth.jpg) ![authorized](repo_images/authorized.jpg)
 
